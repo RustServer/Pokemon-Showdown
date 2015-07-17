@@ -242,7 +242,7 @@ exports.grouplist = [
 		rangeban: true,
 		potd: true,
 		disableladder: true,
-		globalonly: false,
+		globalonly: true,
 		tournamentsmanagement: true
 	},
 	{
